@@ -13,7 +13,7 @@ Aqui estão as ferramentas e conceitos que formam a minha base de atuação:
 - **Linguagens Principais:** Python e C#
 - **Área de Dados:** SQL
 - **Conceitos de Software:** Programação Orientada a Objetos (POO) e Análise de Sistemas.
-- **Web & Infraestrutura:** JavaScript, HTML5, CSS3
+- **Web:** JavaScript, HTML5, CSS3
 
 
 ### Como me encontrar
